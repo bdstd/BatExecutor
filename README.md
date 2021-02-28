@@ -37,7 +37,11 @@ variable exe_param3=321
 contoh forward parameter ke exe lain berdasarkan parameter di atas
 
 start cmd.exe /k echo %all_exe_param%
+
 start cmd.exe /k echo %exe_param0%
+
 start cmd.exe /k echo %exe_param1%
+
 start cmd.exe /k echo %exe_param2%
+
 start cmd.exe /k echo %exe_param3%
