@@ -1,4 +1,5 @@
 BatExecutor
+
 Launcher sederhana untuk mengeksekusi file batch, serta menyembunyikan console window dari batch yang di eksekusi.
 Launcher otomatis akan mengeksekusi file bat yang memiliki nama yang sama, dengan nama launcher-nya.
 
