@@ -1,0 +1,1 @@
+Sesuaikan dulu path pada bat dan reg file
