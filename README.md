@@ -15,6 +15,7 @@ Aturan Main Forward Parameter:
 all_exe_param = semua parameter yang diberikan ke launcher
 exe_param[number] = parameter tertentu yang diberikan ke launcher berdasarkan "urutan" parameter
 * Parameter akan tersedia pada variable console/shell windows
+
 contoh parameter:
 
 start BatExecutor.exe asd 123 321
