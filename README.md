@@ -22,15 +22,23 @@ start BatExecutor.exe asd 123 321
 maka, variable dan value yang tersedia pada console/shell windows, adalah:
 
 variable all_exe_param=asd 123 321
+
 variable exe_param0=BatExecutor.exe
+
 variable exe_param1=asd
+
 variable exe_param2=123
+
 variable exe_param3=321
 
 contoh forward parameter ke exe lain berdasarkan parameter di atas:
 
 start cmd.exe /k echo %all_exe_param%
+
 start cmd.exe /k echo %exe_param0%
+
 start cmd.exe /k echo %exe_param1%
+
 start cmd.exe /k echo %exe_param2%
+
 start cmd.exe /k echo %exe_param3%
